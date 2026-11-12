@@ -1,0 +1,52 @@
+<p align="center"><a href="https://graviola.dev"><img src="https://graviola.dev/graviola-mcp.png" width="80" alt="Graviola"></a></p>
+
+# Graviola
+
+Find your next hire. Meet your next customer.
+
+Search professional profiles, review experience and education, reveal available contact details and run email workflows with your AI assistant.
+
+[Website](https://graviola.dev) · [Create an account](https://data.graviola.dev/signup) · [Connect your AI](https://data.graviola.dev/#developer) · [Product guide](https://graviola.dev/product)
+
+## Connect Claude Code
+
+```sh
+claude mcp add --transport http --scope user graviola https://mcp.graviola.dev/api/mcp
+```
+
+Open Claude Code, run `/mcp`, select Graviola and sign in. Choose your workspace and access level.
+
+Start with:
+
+```text
+Show my Graviola workspace, available credits and projects.
+Do not run searches or send emails yet.
+```
+
+[Connection guide](docs/connect.md) · [Workflow prompts](docs/workflows.md) · [REST API example](examples/usage.sh)
+
+## What you can build
+
+| Recruiting | Sales |
+| :--- | :--- |
+| Find candidates by role, location, skills and education | Find prospects by professional profile and company |
+| Review available experience and education | Review relevant background before contacting |
+| Save candidates to projects and shortlists | Organize prospects and export CSV |
+| Personalize email sequences and follow-ups | Run scheduled outreach from connected mailboxes |
+
+Use Claude, Claude Code, Codex, Cursor or another compatible MCP client. Connect Gmail or Microsoft 365 for email and HubSpot for contact sync.
+
+## Endpoints
+
+| Interface | URL |
+| :--- | :--- |
+| MCP, Streamable HTTP | `https://mcp.graviola.dev/api/mcp` |
+| REST API | `https://api.graviola.dev/api/v1` |
+| Product facts for agents | [llms.txt](https://graviola.dev/llms.txt) |
+| Structured product manifest | [graviola.json](https://graviola.dev/.well-known/graviola.json) |
+
+Protected operations require authentication. Available fields, credits, permissions, mailbox limits and applicable approvals govern execution. Contact details and hiring or sales outcomes are not guaranteed.
+
+## About this repository
+
+Public connection guides and examples for Graviola. This repository does not contain the hosted product source code. For account support, use the Graviola app. Never post API keys, candidate records or mailbox contents in GitHub issues.
