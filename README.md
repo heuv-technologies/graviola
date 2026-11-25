@@ -4,6 +4,8 @@
 
 Find your next hire. Meet your next customer.
 
+Graviola is a product of **Heuv Technologies**. Contact: **Toni** — [toni@graviola.dev](mailto:toni@graviola.dev).
+
 People search, available contact data and email outreach infrastructure for your own AI. Your assistant plans, evaluates professional evidence and writes; Graviola retrieves data, organizes contacts and runs authorized workflows.
 
 [Website](https://graviola.dev) · [Create an account](https://data.graviola.dev/signup) · [Connect your AI](https://data.graviola.dev/#developer) · [Product guide](https://graviola.dev/product)
