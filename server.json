@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.tonipcv/graviola",
+  "title": "Graviola",
+  "description": "People search, available contact data and authorized email outreach for your AI assistant.",
+  "version": "1.0.0",
+  "websiteUrl": "https://graviola.dev",
+  "repository": {
+    "url": "https://github.com/tonipcv/graviola",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.graviola.dev/api/mcp"
+    }
+  ]
+}
