@@ -1,12 +1,12 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.tonipcv/graviola",
+  "name": "io.github.heuv-technologies/graviola",
   "title": "Graviola",
-  "description": "People search, available contact data and authorized email outreach for your AI assistant.",
+  "description": "Heuv Technologies: people search, available contact data and authorized email outreach for your AI.",
   "version": "1.0.0",
   "websiteUrl": "https://graviola.dev",
   "repository": {
-    "url": "https://github.com/tonipcv/graviola",
+    "url": "https://github.com/heuv-technologies/graviola",
     "source": "github"
   },
   "remotes": [

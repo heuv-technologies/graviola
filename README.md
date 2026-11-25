@@ -71,8 +71,8 @@ Practical guides on the Graviola website:
 
 ## Public directory listings
 
-- [Official MCP Registry](https://registry.modelcontextprotocol.io/?q=io.github.tonipcv%2Fgraviola)
-- [Graviola on Glama](https://glama.ai/mcp/connectors/io.github.tonipcv/graviola)
+- [Official MCP Registry](https://registry.modelcontextprotocol.io/?q=io.github.heuv-technologies%2Fgraviola)
+- [Graviola on Glama](https://glama.ai/mcp/connectors/io.github.tonipcv/graviola) (existing listing; corporate registry propagation pending)
 
 ## About this repository
 
