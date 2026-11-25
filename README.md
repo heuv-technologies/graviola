@@ -23,7 +23,7 @@ Show my Graviola workspace, available credits and projects.
 Do not run searches or send emails yet.
 ```
 
-[Connection guide](docs/connect.md) · [Workflow prompts](docs/workflows.md) · [REST API example](examples/usage.sh) · [People data and outreach tutorial](docs/people-data-for-your-ai.md) · [Python workspace example](examples/workspace_readonly.py)
+[Connection guide](docs/connect.md) · [MCP connection diagnostics](docs/mcp-authentication-diagnostics.md) · [Workflow prompts](docs/workflows.md) · [REST API example](examples/usage.sh) · [People data and outreach tutorial](docs/people-data-for-your-ai.md) · [Python workspace example](examples/workspace_readonly.py)
 
 ## What you can build
 
