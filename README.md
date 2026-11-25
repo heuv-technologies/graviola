@@ -56,6 +56,22 @@ Practical guides on the Graviola website:
 - [Find podcast guests and prepare outreach](https://graviola.dev/blog/podcast-guest-outreach-with-ai)
 - [Find early customers with AI-assisted prospecting](https://graviola.dev/blog/first-customers-outbound-with-ai)
 
+- [People search MCP tutorial](https://graviola.dev/blog/people-search-mcp-tutorial)
+- [People search REST API workflow](https://graviola.dev/blog/people-search-api-workflow)
+- [Contact enrichment and work email statuses](https://graviola.dev/blog/contact-enrichment-work-email-guide)
+- [Email sequence preparation and reply review](https://graviola.dev/blog/ai-email-sequence-tutorial)
+- [AI recruiting sourcing walkthrough](https://graviola.dev/blog/ai-recruiting-sourcing-shortlist)
+- [Evaluate contact data providers with a consistent sample](https://graviola.dev/blog/compare-b2b-contact-data-providers)
+
+## Compare workflows
+
+[Graviola comparisons](https://graviola.dev/compare) cover professional search, contact data, recruiting and email outreach products. Each new comparison links official product information and proposes a practical evaluation. Recommendations are editorial assessments, not measured vendor rankings.
+
+## Public directory listings
+
+- [Official MCP Registry](https://registry.modelcontextprotocol.io/?q=io.github.tonipcv%2Fgraviola)
+- [Graviola on Glama](https://glama.ai/mcp/connectors/io.github.tonipcv/graviola)
+
 ## About this repository
 
 Public connection guides and examples for Graviola. This repository does not contain the hosted product source code. For account support, use the Graviola app. Never post API keys, candidate records or mailbox contents in GitHub issues.
