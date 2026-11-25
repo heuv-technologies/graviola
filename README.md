@@ -47,6 +47,15 @@ Use Claude, Claude Code, Codex, Cursor or another compatible MCP client. Connect
 
 Protected operations require authentication. Available fields, credits, permissions, mailbox limits and applicable approvals govern execution. Contact details and hiring or sales outcomes are not guaranteed.
 
+
+## Workflow guides
+
+Practical guides on the Graviola website:
+
+- [Find VC investor contacts with your own AI](https://graviola.dev/blog/find-vc-investor-contacts-with-ai)
+- [Find podcast guests and prepare outreach](https://graviola.dev/blog/podcast-guest-outreach-with-ai)
+- [Find early customers with AI-assisted prospecting](https://graviola.dev/blog/first-customers-outbound-with-ai)
+
 ## About this repository
 
 Public connection guides and examples for Graviola. This repository does not contain the hosted product source code. For account support, use the Graviola app. Never post API keys, candidate records or mailbox contents in GitHub issues.
