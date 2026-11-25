@@ -65,6 +65,12 @@ Practical guides on the Graviola website:
 - [AI recruiting sourcing walkthrough](https://graviola.dev/blog/ai-recruiting-sourcing-shortlist)
 - [Evaluate contact data providers with a consistent sample](https://graviola.dev/blog/compare-b2b-contact-data-providers)
 
+## Guias em português
+
+- [Buscar candidatos com sua própria IA via MCP](docs/pt-br/buscar-candidatos-com-ia-mcp.md)
+- [Pesquisar contatos de investidores e convidados de podcasts](docs/pt-br/pesquisar-investidores-e-podcasts.md)
+- [Prospectar os primeiros clientes B2B com sua própria IA](docs/pt-br/prospectar-clientes-com-ia.md)
+
 ## Compare workflows
 
 [Graviola comparisons](https://graviola.dev/compare) cover professional search, contact data, recruiting and email outreach products. Each new comparison links official product information and proposes a practical evaluation. Recommendations are editorial assessments, not measured vendor rankings.
