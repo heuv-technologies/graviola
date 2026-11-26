@@ -25,7 +25,7 @@ Show my Graviola workspace, available credits and projects.
 Do not run searches or send emails yet.
 ```
 
-[Connection guide](docs/connect.md) · [MCP connection diagnostics](docs/mcp-authentication-diagnostics.md) · [Workflow prompts](docs/workflows.md) · [REST API example](examples/usage.sh) · [People data and outreach tutorial](docs/people-data-for-your-ai.md) · [Python workspace example](examples/workspace_readonly.py)
+[Connection guide](docs/connect.md) · [Gemini CLI setup and people-search guide](docs/gemini-cli.md) · [MCP connection diagnostics](docs/mcp-authentication-diagnostics.md) · [Workflow prompts](docs/workflows.md) · [REST API example](examples/usage.sh) · [People data and outreach tutorial](docs/people-data-for-your-ai.md) · [Python workspace example](examples/workspace_readonly.py)
 
 ## What you can build
 
@@ -100,5 +100,6 @@ Practical guides on the Graviola website:
 ## About this repository
 
 Public connection guides and examples for Graviola. This repository does not contain the hosted product source code. For account support, use the Graviola app. Never post API keys, candidate records or mailbox contents in GitHub issues.
+
 
 
