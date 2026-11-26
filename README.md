@@ -76,6 +76,8 @@ Practical guides on the Graviola website:
 
 ## Guias em português
 
+- [Encontrar líderes de RevOps para uma oferta de migração HubSpot–Salesforce](docs/pt-br/encontrar-revops-migracao-hubspot-salesforce.md)
+
 - [Buscar candidatos com sua própria IA via MCP](docs/pt-br/buscar-candidatos-com-ia-mcp.md)
 - [Pesquisar contatos de investidores e convidados de podcasts](docs/pt-br/pesquisar-investidores-e-podcasts.md)
 - [Prospectar os primeiros clientes B2B com sua própria IA](docs/pt-br/prospectar-clientes-com-ia.md)
