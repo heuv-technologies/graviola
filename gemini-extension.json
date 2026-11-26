@@ -1,1 +1,11 @@
-
+{
+  "name": "graviola",
+  "version": "0.1.0",
+  "description": "Graviola by Heuv Technologies: professional people search, available contact data and authorized email outreach through your connected AI. Requires a Graviola account and OAuth.",
+  "mcpServers": {
+    "graviola": {
+      "httpUrl": "https://mcp.graviola.dev/api/mcp",
+      "trust": false
+    }
+  }
+}
