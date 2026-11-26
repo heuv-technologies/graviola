@@ -76,6 +76,9 @@ Practical guides on the Graviola website:
 
 ## Guias em português
 
+- [Encontrar convidados de podcast sobre precificação por uso em SaaS](https://graviola.dev/blog/como-encontrar-convidados-podcast-precificacao-por-uso-saas)
+- [Guia no site: líderes de RevOps para migração HubSpot–Salesforce](https://graviola.dev/blog/como-encontrar-revops-migracao-hubspot-salesforce)
+
 - [Encontrar líderes de RevOps para uma oferta de migração HubSpot–Salesforce](docs/pt-br/encontrar-revops-migracao-hubspot-salesforce.md)
 
 - [Buscar candidatos com sua própria IA via MCP](docs/pt-br/buscar-candidatos-com-ia-mcp.md)
@@ -97,4 +100,5 @@ Practical guides on the Graviola website:
 ## About this repository
 
 Public connection guides and examples for Graviola. This repository does not contain the hosted product source code. For account support, use the Graviola app. Never post API keys, candidate records or mailbox contents in GitHub issues.
+
 
