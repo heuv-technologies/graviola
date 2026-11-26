@@ -65,6 +65,15 @@ Practical guides on the Graviola website:
 - [AI recruiting sourcing walkthrough](https://graviola.dev/blog/ai-recruiting-sourcing-shortlist)
 - [Evaluate contact data providers with a consistent sample](https://graviola.dev/blog/compare-b2b-contact-data-providers)
 
+### Specific use cases
+
+- [Find founding engineers with Rust and PostgreSQL experience](https://graviola.dev/blog/find-founding-rust-postgresql-engineers)
+- [Find payroll API partnership leaders for HRIS integrations](https://graviola.dev/blog/find-payroll-api-partnership-leaders)
+- [Find podcast guests with usage-based SaaS pricing experience](https://graviola.dev/blog/find-podcast-guests-usage-based-pricing)
+- [Research RevOps contacts for a HubSpot-to-Salesforce migration offer](https://graviola.dev/blog/find-revops-leaders-hubspot-salesforce-migration)
+- [Find DevRel speakers for a RAG evaluation workshop](https://graviola.dev/blog/find-developer-relations-speakers-rag-evaluation)
+- [Find participants for B2B onboarding research](https://graviola.dev/blog/find-customer-interview-participants-b2b-onboarding)
+
 ## Guias em português
 
 - [Buscar candidatos com sua própria IA via MCP](docs/pt-br/buscar-candidatos-com-ia-mcp.md)
@@ -78,8 +87,12 @@ Practical guides on the Graviola website:
 ## Public directory listings
 
 - [Official MCP Registry](https://registry.modelcontextprotocol.io/?q=io.github.heuv-technologies%2Fgraviola)
-- [Graviola on Glama](https://glama.ai/mcp/connectors/io.github.tonipcv/graviola) (existing listing; corporate registry propagation pending)
+- [Graviola on Glama — Heuv Technologies](https://glama.ai/mcp/connectors/io.github.heuv-technologies/graviola)
+- [Graviola on Product Hunt](https://www.producthunt.com/products/graviola)
+- [Graviola on Gate of AI](https://gateofai.com/community-tools/graviola/)
+- [Graviola on Indie Hackers](https://www.indiehackers.com/product/graviola)
 
 ## About this repository
 
 Public connection guides and examples for Graviola. This repository does not contain the hosted product source code. For account support, use the Graviola app. Never post API keys, candidate records or mailbox contents in GitHub issues.
+
