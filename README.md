@@ -96,6 +96,7 @@ Practical guides on the Graviola website:
 - [Graviola on Product Hunt](https://www.producthunt.com/products/graviola)
 - [Graviola on Gate of AI](https://gateofai.com/community-tools/graviola/)
 - [Graviola on Indie Hackers](https://www.indiehackers.com/product/graviola)
+- [Graviola on HyzenPro](https://hyzenpro.com/ai-tools-directory/mcp-servers/graviola/)
 
 ## About this repository
 
