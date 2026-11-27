@@ -83,7 +83,7 @@ Practical guides on the Graviola website:
 
 - [Buscar candidatos com sua própria IA via MCP](docs/pt-br/buscar-candidatos-com-ia-mcp.md)
 - [Pesquisar contatos de investidores e convidados de podcasts](docs/pt-br/pesquisar-investidores-e-podcasts.md)
-- [Prospectar os primeiros clientes B2B com sua própria IA](docs/pt-br/prospectar-clientes-com-ia.md)
+- [Usar MCP para encontrar profissionais e enriquecer leads B2B com IA](https://graviola.dev/blog/como-usar-mcp-para-enriquecimento-de-leads-b2b)
 
 ## Compare workflows
 
